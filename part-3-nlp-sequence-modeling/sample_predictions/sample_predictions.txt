@@ -1,0 +1,11 @@
+Customer Message	Actual Sentiment	Predicted Sentiment
+I need information about the payment process. My ticket number is 78732. Please respond as soon as possible.	neutral	neutral
+I need information about the payment process.	neutral	neutral
+The refund process was fast and convenient. I appreciate the quick response.	positive	positive
+My refund is still pending and this experience is frustrating. My ticket number is 33927.	negative	negative
+Please tell me how to update my account details.	neutral	neutral
+I need help finding the invoice for my last order. Please respond as soon as possible.	neutral	neutral
+I am satisfied with the plan and would recommend it to others. My ticket number is 99198.	positive	positive
+I want to understand the warranty terms for this product.	neutral	neutral
+I need help finding the invoice for my last order.	neutral	neutral
+My refund is still pending and this experience is frustrating.	negative	negative
